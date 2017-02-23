@@ -597,7 +597,7 @@ a:hover {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-  height: auto;
+  height: 100%;
   left: 0;
   position: fixed;
   top: 0;
